@@ -14,7 +14,9 @@
   "homepage": "https://github.com/svitlua/table-test#readme",
   "dependencies": {
     "date-fns": "^1.29.0",
+    "javascript-natural-sort": "^0.7.1",
     "react": "^16.4.0",
+    "react-bootstrap": "^0.32.1",
     "react-dom": "^16.4.0",
     "react-hyper-responsive-table": "^0.5.1",
     "react-scripts": "1.1.4"
