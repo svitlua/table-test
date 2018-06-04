@@ -1,0 +1,27 @@
+{
+  "name": "table-test",
+  "version": "0.1.0",
+  "description": "Group management app on ReactJS",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svitlua/table-test.git"
+  },
+  "author": "Svitlana S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/svitlua/table-test/issues"
+  },
+  "homepage": "https://github.com/svitlua/table-test#readme",
+
+  "dependencies": {
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
