@@ -12,8 +12,8 @@
     "url": "https://github.com/svitlua/table-test/issues"
   },
   "homepage": "https://github.com/svitlua/table-test#readme",
-
   "dependencies": {
+    "date-fns": "^1.29.0",
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
     "react-scripts": "1.1.4"
